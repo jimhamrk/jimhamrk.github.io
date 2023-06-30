@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2023 19:10:37 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myfristpassage</title>
+      <link>/posts/myfristpassage/</link>
+      <pubDate>Thu, 29 Jun 2023 19:10:37 +0800</pubDate>
+      
+      <guid>/posts/myfristpassage/</guid>
+      <description>
+        
+          
+            #这是我的第一篇博客内容 我在创建博客遇到的问题，在创建内容的理解上没有遇到太大的问题，反而是在创建的过程中有不少的小问题 1.我在创建仓库的时候也就是git,的时候这个是动态的，R我的电脑没有开启显示隐藏文件 我就一直在找.这告诉了我们在做项目的时候，最好先把自己电脑环境配置给配置好了 2.语法错误,我的控制台所用到的字体导致了我看~&amp;quot;－几乎是分不清楚的, 这导致了我在commit me上卡了很久。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
